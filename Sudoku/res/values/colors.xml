@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background">#3500FFFF</color>
+    
+    <color name="puzzle_background">#FFE6F0FF</color>
+    <color name="puzzle_hilite">#FFFFFFFF</color>
+    <color name="puzzle_light">#64C6D4EF</color>
+    <color name="puzzle_dark">#6456648F</color>
+    <color name="puzzle_foreground">#FF0000FF</color>
+    <color name="puzzle_static_number">#FF000000</color>
+    <color name="puzzle_hint_0">#64FF0000</color>
+    <color name="puzzle_hint_1">#6400FF80</color>
+    <color name="puzzle_hint_2">#2000FF80</color>
+    <color name="puzzle_selected">#64FF8000</color>
+</resources>
